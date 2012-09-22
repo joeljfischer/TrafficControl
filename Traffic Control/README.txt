@@ -1,1 +1,0 @@
-This is a senior project by Joel Fischer and Brandon See at Lawrence Technological University in Southfield, MI
