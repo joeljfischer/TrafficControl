@@ -14,8 +14,9 @@ public class Logger {
     public static final int TRACE = 1;
     public static final int DEBUG = 2;
     public static final int INFO = 3;
+    public static final int OFF = 4;
     
-    private static int logLevel = INFO;
+    private static int logLevel = OFF;
     
     public Logger() {
         
